@@ -15,4 +15,4 @@ Esto facilita la extensión del sistema para incorporar nuevos menús en el futu
 
 📊 **Diagrama UML del sistema:**
 
-<img width="2048" height="699" alt="image" src="https://github.com/user-attachments/assets/a3d3b3ab-51ea-4112-9366-3c7178b22345" />
+<img width="2660" height="850" alt="Restaurante" src="https://github.com/user-attachments/assets/71abc8d8-fc05-4fba-9b55-c5fac2e4ed57" />
